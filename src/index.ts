@@ -1,4 +1,3 @@
-const a: number = 1;
-const b: number = 2;
-
-console.log(a + b);
+// import {} from "./call_apply_bind";
+// import {} from "./prototype";
+// import {} from "./promises";
